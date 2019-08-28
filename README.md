@@ -1,6 +1,6 @@
 # Auction Coding Challenge
 
-The application reports auctions winners based on site and bidder configurations loaded from config.json and auctions loaded from input.json . The rules for reporitng winners are speceified in https://gist.github.com/marks-sortable/4771fed136dc70e77853d13d93e23061
+The application reports auction winners based on site and bidder configurations loaded from config.json and auctions loaded from input.json . The rules for reporitng winners are speceified in https://gist.github.com/marks-sortable/4771fed136dc70e77853d13d93e23061
 
 
 
